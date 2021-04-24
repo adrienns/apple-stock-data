@@ -1,0 +1,12 @@
+.app-container {
+  margin: 20px;
+}
+
+.apple-inc-text {
+  font-size: 30px;
+  margin: 21px;
+
+  border-bottom: solid gray;
+  padding: 20px;
+  border-width: 0.5px;
+}
