@@ -18,9 +18,7 @@ const Chart = ({ data }) => {
       enabled: false,
     },
 
-    title: {
-      text: "AAPL Stock Price",
-    },
+    title: {},
 
     series: [
       {

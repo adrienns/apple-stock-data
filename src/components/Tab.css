@@ -1,9 +1,15 @@
 .tab-inactive {
   opacity: 0.3;
+  border-left: solid rgb(112, 110, 110);
+  border-width: 0.5px;
   filter: grayscale(100%);
 }
 
 .tab {
-  color: blue;
-  margin: 20px;
+  color: rgb(24, 24, 26);
+
+  cursor: pointer;
+  padding: 10px;
+  font-weight: 600;
+  background-color: rgb(189, 196, 214);
 }
